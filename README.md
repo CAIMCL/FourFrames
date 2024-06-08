@@ -18,7 +18,7 @@ FourFrames is a Python script that extracts four random frames from a video file
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/FourFrames.git
+    git clone https://github.com/CAIMCL/FourFrames.git
     cd FourFrames
     ```
 
